@@ -6,13 +6,7 @@
 
 闪电官方网站：[https://www.llkkz.net](https://www.llkkz.net)
 
-闪电6.0
-
-稳定运行6年
-
-最安全的交易机器人
-
-现已支持各大Dex
+{% embed url="https://www.llkkz.net" %}
 
 ## 2.免费注册账号注册 <a href="#register" id="register"></a>
 
