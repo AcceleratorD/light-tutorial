@@ -1,6 +1,4 @@
-# Table of contents
-
-* [Tutorial](README.md)
+* [Tutorial](tutorial/README.md)
 * [Robotlist](robotlist/README.md)
   * [range-trading](robotlist/range-trading.md)
   * [batch-selling](robotlist/batch-selling.md)

@@ -1,6 +1,6 @@
-# 机器人说明
+# Robot description
 
-## 个人版
+## Individual Version Package
 
 {% content-ref url="range-trading.md" %}
 [range-trading.md](range-trading.md)
@@ -10,21 +10,21 @@
 [batch-selling.md](batch-selling.md)
 {% endcontent-ref %}
 
-## 企业版
+## Enterprise Version Package
 
 {% content-ref url="volume-generating.md" %}
 [volume-generating.md](volume-generating.md)
 {% endcontent-ref %}
 
-## 旗舰版
+## Professional Version Package
 
-### CEX机器人 <a href="#cex" id="cex"></a>
+### CEX <a href="#cex" id="cex"></a>
 
 {% content-ref url="charting.md" %}
 [charting.md](charting.md)
 {% endcontent-ref %}
 
-### DEX机器人 <a href="#dex" id="dex"></a>
+### DEX <a href="#dex" id="dex"></a>
 
 {% content-ref url="dex-charting.md" %}
 [dex-charting.md](dex-charting.md)
