@@ -1,10 +1,10 @@
 # Table of contents
 
-* [选择语言](README.md)
+* [Language](README.md)
 
 ## English <a href="#en" id="en"></a>
 
-* [新手引导](en/xin-shou-yin-dao.md)
+* [Tutorial](en/tutorial.md)
 
 ## 中文简体 <a href="#zh" id="zh"></a>
 
