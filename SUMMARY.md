@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Language](README.md)
+* [🔸 Language](README.md)
 
 ## English <a href="#en" id="en"></a>
 
