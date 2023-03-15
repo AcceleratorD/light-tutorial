@@ -12,14 +12,14 @@
 
 <figure><img src="../.gitbook/assets/注册.png" alt=""><figcaption></figcaption></figure>
 
-①用户名为字母+数字组合
+① 用户名为字母+数字组合
 
-②密码为字母+数字组合（6位含以上）
+② 密码为字母+数字组合（6位含以上）
 
 ## 3.新建账号流程 <a href="#account" id="account"></a>
 
 <figure><img src="../.gitbook/assets/创建账号.png" alt=""><figcaption></figcaption></figure>
 
-①注册成功后登陆账号后点击【账号列表】
+① 注册成功后登陆账号后点击【账号列表】
 
-②点击【新建账号】\\
+② 点击【新建账号】\
