@@ -1,5 +1,3 @@
-# 新手引导
-
 # Tutorial
 
 ## 1.Introduce <a href="#introduce" id="introduce"></a>
