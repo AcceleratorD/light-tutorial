@@ -1,13 +1,13 @@
-# 成交量对敲机器人
+# Volume Generating
 
-## 使用场景：
+## Function:
 
-用于刷盘口成交量,提高盘口活跃度。
+Creates trading volume and increases market activity.
 
-## 特殊参数说明：
+## Operations:
 
-可以设置每单的数量范围和每分钟执行的次数范围。挂单价格为买一卖一之间一个随机价格。
+Orders will be executed with a random frequency and volume within the respective ranges stated.
 
-## 启动和停止：
+## Start/Stop:
 
-点击启动按钮，机器人会立即开始工作。遇到各种原因导致的下单失败或买卖盘口差价极小时，机器人将暂停工作。
+The robot will start and stop immediately according to the respective buttons clicked. If the market enters a consolidation phase, the robot will pause activities.
